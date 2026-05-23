@@ -44,7 +44,7 @@ Todo o embasamento teórico, as matrizes de covariância utilizadas e a discuss�
 ## 📁 Organização do Repositório
 
 ```text
-├── dados/
+├── datasets/
 │   ├── Singer&Nobre&Rocha2017exemp531.xls  # Base de dados (Estudo 1)
 │   └── pig_weights.xlsx                     # Base de dados (Estudo 2)
 ├── scripts/

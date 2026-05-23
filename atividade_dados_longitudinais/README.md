@@ -25,5 +25,6 @@ Foi avaliada uma amostra de 21 voluntários, medindo-se o pH antes e depois da i
 
 ---
 
-👉 **[Clique aqui para visualizar a Apresentação Completa (PDF)](./Atividade_de_Longitudinal.pdf)**C:\Users\dougl\OneDrive\Pastas\Git&GitHub\academic-projects\atividade_dados_longitudinais\
-(Dados Longitudinais - Efeito do Bochecho no Potencial Cariogênico.pdf)
+## 🚀 Para Visualizar os Resultados
+
+👉 **[Clique aqui para visualizar a Apresentação Completa (PDF)](./Dados_Longitudinais__Efeito_do_Bochecho_no_Potencial_Cariogênico.pdf)**
