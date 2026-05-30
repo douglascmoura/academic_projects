@@ -1,0 +1,27 @@
+#1. work_year: O ano em que o salário foi pago.
+
+#2. experience_level: O nível de experiência do trabalho durante o ano
+	EN: Iniciante
+	EX: Experiente
+	MI: Médio
+	SE: Sênior		
+	
+#3. employment_type: O tipo de emprego pra a função
+	CT: Temporário
+	FT: Tempo integral
+	PT: Tempo parcial
+	FL: Freelancer
+
+#4. job_title: A função exercida durante o ano
+
+#7. salaryinusd: O salário em dólar americano
+
+#8. employee_residence: Principal país de residência do funcionário durante o 
+ano de trabalho como código ISO 3166
+
+#10: company_location: O país da sede do empregador ou filial contratante
+
+#11. company_size: O número médio de pessoas que trabalharam para a empresa durante o ano
+	L: Grande
+	M: Médio
+	S: Pequeno
